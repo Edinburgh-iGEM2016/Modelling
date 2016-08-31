@@ -1,3 +1,8 @@
+# a simple model to work out how many sequencing reactions we would have to do to have a certain % certainty 
+# of having at least one babblebrick from a gblock of n babblebricks
+# babbled - edinburgh ug igem 2016
+#freddie starkey
+
 from itertools import product
 import matplotlib.pyplot as plt
 
